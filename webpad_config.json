@@ -1,0 +1,42 @@
+{
+  "serial_port": "COM3",
+  "platform": "windows",
+  "buttons": {
+    "BTN_1": {
+      "type": "url",
+      "value": "https://www.youtube.com/watch?v=2CwFGGvVSSY"
+    },
+    "BTN_2": {
+      "type": "app",
+      "value": "C:/Program Files (x86)/Steam/steamapps/common/Aim Lab/AimLab_tb.exe"
+    },
+    "BTN_3": {
+      "type": "url",
+      "value": ""
+    },
+    "BTN_4": {
+      "type": "url",
+      "value": ""
+    },
+    "BTN_5": {
+      "type": "url",
+      "value": ""
+    },
+    "BTN_6": {
+      "type": "url",
+      "value": ""
+    },
+    "BTN_7": {
+      "type": "url",
+      "value": ""
+    },
+    "BTN_8": {
+      "type": "url",
+      "value": ""
+    },
+    "BTN_9": {
+      "type": "url",
+      "value": ""
+    }
+  }
+}
