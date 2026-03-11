@@ -1,0 +1,9 @@
+build/
+dist/
+Output/
+__pycache__/
+*.pyc
+*.spec
+webpad_config.json
+.DS_Store
+Thumbs.db
