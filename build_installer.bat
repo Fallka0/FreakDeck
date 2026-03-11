@@ -13,5 +13,5 @@ if not exist %ISCC% (
 
 echo.
 echo Installer build finished.
-echo Output: Output\FreakDeckInstaller.exe
+echo Output: FreakDeckInstaller.exe
 pause
